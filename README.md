@@ -1,6 +1,6 @@
 # iDSBindel
 
-''''
+```
 *********************************** how to use iDSBindel ***********************************
 Usage: sh DSBsindel.sh -a SampleID -i ReadsWithLargeInsertion -f HighQuality Forward Read -r HighQuality Reverse Read -b WorkingDirectory -o OutputFolder -p SoftwareDirectory [Options]
 
@@ -60,4 +60,4 @@ Alternatively, you could run the pipeline step by step:
 	-h help
 For more detail information, please feel free to contact: xin.wang@childrens.harvard.edu
 **************************************************
-''''
+```
