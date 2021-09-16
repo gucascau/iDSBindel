@@ -1,14 +1,18 @@
 # iDSBindel
 
-```
-*********************************** how to use iDSBindel ***********************************
-Usage: sh DSBsindel.sh -a SampleID -i ReadsWithLargeInsertion -f HighQuality Forward Read -r HighQuality Reverse Read -b WorkingDirectory -o OutputFolder -p SoftwareDirectory [Options]
 
+# Description
 iDSBindel: The software can detect small insertions/ small deletions/ no changes/ at DNA double strand break sites
-	 Features:
+
+# Feature 
 	 -- Ignore the sequence errors that happened at two side of MATA regions
 	 -- Measure the read counts of each short insertions events, short deletion events and no change events
 	 -- Define the best sequence to represent each event.
+
+# Usage
+```
+Usage: sh DSBsindel.sh -a SampleID -i ReadsWithLargeInsertion -f HighQuality Forward Read -r HighQuality Reverse Read -b WorkingDirectory -o OutputFolder -p SoftwareDirectory [Options]
+
 
 
 Request Parameters:
