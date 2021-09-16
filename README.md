@@ -27,12 +27,10 @@ Request Parameters:
 
 Optional Parameters:
 
-Optional Parameters -- overall requirements:
+	iDSBindel: Overall requirements:
 	-n Number of threads (Default: 15)
 	-gs Genome sequence, we only used chrIII fasta file (Must corrected with chromosome ID)
 
-Optional Parameters of Mapping:
-	Outsoftware will use bwa mem ...
 	iDSBindel: Trimm the index:
 	-si The size of left custom index (Default 3)
 	-sr The size of right custom index (Default 3)
