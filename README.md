@@ -2,7 +2,7 @@
 
 
 # Description
-iDSBindel: The software can detect small insertions/ small deletions/ no changes/ at DNA double strand break sites
+iDSBindel: The software can detect small insertions, small deletions, no changes at DNA double strand break sites. 
 
 # Feature 
 	 -- Ignore the sequence errors that happened at two side of MATA regions
