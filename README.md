@@ -33,11 +33,11 @@ Optional Parameters -- overall requirements:
 
 Optional Parameters of Mapping:
 	Outsoftware will use bwa mem ...
-iDSBindel: Trimm the index:
+	iDSBindel: Trimm the index:
 	-si The size of left custom index (Default 3)
 	-sr The size of right custom index (Default 3)
 
-iDSBindel: Define the MATA information:
+	iDSBindel: Define the MATA information:
 	-il minimum length of large insertion (Default 10bp)
 	-ms Total size of whole MATA region (Default 84)
 	-mc Mapped chromosme of MATA reference position (Default chrIII)
@@ -46,25 +46,26 @@ iDSBindel: Define the MATA information:
 	-ml Size of left MATA region, here we allowed 4 nucleotide shift considering the microhomology or sequence errors (Default 45)
 	-mr Size of left MATA region, here we allowed 4 nucleotide shift considering the microhomology or sequence errors (Default 51)
 
-iDSBindel: Define the Primer information:
+	iDSBindel: Define the Primer information:
 
 	-ps The size of left primer, extended 5bp if there are deletion on the primer (default 25)
 	-pf The size of right primer, extended 5bp if there are deletion on the primer (default 22)
-iDSBindel: Define the junction size to determine the unique of events:
+	iDSBindel: Define the junction size to determine the unique of events:
 	-u The collect upstream and downstream for the unique of deletion or insertions from the raw reads (default 5bp)
 	-uc The read counts cut-off to determine confident indel(default 5)
 
 
-Alternatively, you could run the pipeline step by step:
-		 Extract the reads that did not contain the large insertions (Optional)
-		 Map the reads to the genome
-		 Detect and Measure the short indel events
-
-
 	-h help
-
 	
-```	
+```
+
+
+Alternatively, you could run the pipeline step by step:
+	1. Extract the reads that did not contain the large insertions (Optional)
+	2. Map the reads to the genome
+	3. Detect and Measure the short indel events
+		 
+		
 For more detail information, please feel free to contact: xin.wang@childrens.harvard.edu
 
 
