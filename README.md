@@ -62,6 +62,9 @@ Alternatively, you could run the pipeline step by step:
 
 
 	-h help
+
+	
+```	
 For more detail information, please feel free to contact: xin.wang@childrens.harvard.edu
-**************************************************
-```
+
+
