@@ -66,7 +66,11 @@ Alternatively, you could run the pipeline step by step:
 	3. Detect and Measure the short indel events
 
 # Output
+Output fold contains several files to explain the results
 
+1. Fasta files: These files includes the representive sequence for short insertion (outpout_insertion.fasta) and deletion events (outpout_deletion.fasta). These files also contain the information of sequenceID, mapping CIGAR, mapping junction index, read counts, indel size. 
+2. Final Statistic: The read number of short insertion, short deleton, or no changes.
+3. Indel stat file: The mapping junction index, read counts, indel size and detailed mapping information of each indel events
 		
 For more detail information, please feel free to contact: xin.wang@childrens.harvard.edu
 
