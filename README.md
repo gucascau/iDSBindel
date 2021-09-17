@@ -64,7 +64,9 @@ Alternatively, you could run the pipeline step by step:
 	1. Extract the reads that did not contain the large insertions (Optional)
 	2. Map the reads to the genome
 	3. Detect and Measure the short indel events
-		 
+
+# Output
+
 		
 For more detail information, please feel free to contact: xin.wang@childrens.harvard.edu
 
