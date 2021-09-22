@@ -1,7 +1,7 @@
 # iDSBindel
 DNA double strand breaks are one of the most deleterious DNA lesions. The repair by nonhomologous end joining can repair the break ends accurately and this accuracy normally joined with the microhomologies. Sometimes, the end joing processing involves removal of damaged or mismatched nucleotides.  NHEJ will also lead to the small indels at the break site. 
 
-We developed a new techonology -- iDSBins, which would not only detect the large insertion events but also the small indels products at DNA double strans break site. To profile the small indels, we developed iDSBindel to sensentively detect the short indel (insertion/deletion) events and calucate the frequency of each indel events.
+We developed a new techonology -- iDSBindel, which would not only detect the large insertion events but also the small indels products at DNA double strans break site. To profile the small indels, we developed iDSBindel to sensentively detect the short indel (insertion/deletion) events and calucate the frequency of each indel events.
 
 # Description
 iDSBindel: The software can detect small insertions, small deletions, no changes at DNA double strand break sites. 
