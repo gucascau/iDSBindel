@@ -75,4 +75,8 @@ Output fold contains several files to explain the results
 		
 For more detail information, please feel free to contact: xin.wang@childrens.harvard.edu
 
+Copyright (c) 2023 Dr. Kaifu Chen lab
+
+Current version v1.0
+
 
