@@ -1,5 +1,5 @@
 # iDSBindel
-DNA double strand breaks are one of the most deleterious DNA lesions. The repair by nonhomologous end joining is error-prone, which would indced small insertions or  remove damaged or mismatched nucleotides.
+DNA double strand breaks are one of the most deleterious DNA lesions. The repair by nonhomologous end joining is error-prone, which would induced small insertions or  remove damaged or mismatched nucleotides.
 
 To detect the products of DNA double strand break repair, we developed a novel techonology -- Break-Ins. In accompany with this technology, we also developed iDSBindel, which would sensentively detect short insertion, short deletion, short deletion and short insertion, and indel-free products at DNA double strans break site. iDSBindel can also calculate the frequency of each indel repair events.
 
