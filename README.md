@@ -72,7 +72,11 @@ Output fold contains several files to explain the results
 1. Fasta files: These files includes the representive sequence for short insertion (outpout_insertion.fasta) and deletion events (outpout_deletion.fasta). These files also contain the information of sequenceID, mapping CIGAR, mapping junction index, read counts, indel size. 
 2. Final Statistic: The read number of short insertion, short deleton, or no changes.
 3. Indel stat file: The mapping junction index, read counts, indel size and detailed mapping information of each indel events
-		
+
+# Citation
+Yu, Y._#_, Wang, X._#_, Fox, J._#_, et al. **Yeast EndoG prevents genome instability by degrading extranuclear DNA species**. _Nat Commun_ 15, 7653 (2024). https://doi.org/10.1038/s41467-024-52147-2
+
+# Contact		
 For more detail information, please feel free to contact: xin.wang@childrens.harvard.edu
 
 This project is licensed under the terms of the MIT license.
