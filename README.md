@@ -74,7 +74,7 @@ Output fold contains several files to explain the results
 3. Indel stat file: The mapping junction index, read counts, indel size and detailed mapping information of each indel events
 
 # Citation
-Yu, Y._#_, Wang, X._#_, Fox, J._#_, et al. **Yeast EndoG prevents genome instability by degrading extranuclear DNA species**. _Nat Commun_ 15, 7653 (2024). https://doi.org/10.1038/s41467-024-52147-2
+Yu, Y._#_, Wang, X._#_, Fox, J._#_, Yu, R., Thakre, P., Nikoloutsos, N., Yu, Y., Li, Q., Hastings P.J., Dang, W., Chen, K*, Ira, G*. **Yeast EndoG prevents genome instability by degrading extranuclear DNA species**. _Nat Commun_ 15, 7653 (2024). https://doi.org/10.1038/s41467-024-52147-2
 
 # Contact		
 For more detail information, please feel free to contact: xin.wang@childrens.harvard.edu
